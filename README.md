@@ -1,11 +1,2 @@
-# 关于本存储库
+# Page 1
 
-介于国内没有完整得Skyblock文库，故创建此文档。
-
-如发现文档中有错误的地方，或有遗漏，请提交ISS:
-
-[https://github.com/pysio2007/Skyblock\_Book/issues](https://github.com/pysio2007/Skyblock\_Book/issues)
-
-{% hint style="info" %}
-如果没有特别标注 本文档按照 署名 4.0 国际 (CC BY 4.0) 协议传播
-{% endhint %}

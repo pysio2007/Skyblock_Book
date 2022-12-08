@@ -1,6 +1,7 @@
 # Table of contents
 
 * [关于本存储库](README.md)
+* [存储库常见问题解决](cun-chu-ku-chang-jian-wen-ti-jie-jue.md)
 
 ## 初见Skyblock
 
