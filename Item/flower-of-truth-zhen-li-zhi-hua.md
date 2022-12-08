@@ -8,10 +8,6 @@ description: 曾经被设计为新手的无级别神器
 本文编辑于0.17版本
 {% endhint %}
 
-{% hint style="warning" %}
-物品评价请转到：[Flower Of Truth 评价](../za-wen/flower-of-truth-ping-jia.md)
-{% endhint %}
-
 > 曾经新手武器的王者 在0.15跌落神坛
 
 <figure><img src="https://img.pysio.online/doc/skyblock/FOT.gif" alt=""><figcaption><p>人畜无害的小红花</p></figcaption></figure>
@@ -65,5 +61,11 @@ Gemstones (Jasper)
 #### 可以使用以下卷轴：
 
 Power Scrolls
+
+### 琐事
+
+{% hint style="warning" %}
+物品评价请转到：[Flower Of Truth 评价](../za-wen/flower-of-truth-ping-jia.md)
+{% endhint %}
 
 [^1]: 此限制在0.15版本添加
