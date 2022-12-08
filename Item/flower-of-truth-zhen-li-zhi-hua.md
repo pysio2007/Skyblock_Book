@@ -9,7 +9,7 @@ description: 曾经被设计为新手的无级别神器
 {% endhint %}
 
 {% hint style="warning" %}
-物品评价请转到：[Flower Of Truth 评价](../ping-jia/flower-of-truth-ping-jia.md)
+物品评价请转到：[Flower Of Truth 评价](../za-wen/flower-of-truth-ping-jia.md)
 {% endhint %}
 
 > 曾经新手武器的王者 在0.15跌落神坛

@@ -14,6 +14,6 @@
 * [Recombobulator 3000 (重组器3000)](Item/recombobulator-3000-zhong-zu-qi-3000.md)
 * [Enchantments （附魔）](Item/enchantments-fu-mo.md)
 
-## 评价
+## 杂文
 
-* [Flower Of Truth 评价](ping-jia/flower-of-truth-ping-jia.md)
+* [Flower Of Truth 评价](za-wen/flower-of-truth-ping-jia.md)
