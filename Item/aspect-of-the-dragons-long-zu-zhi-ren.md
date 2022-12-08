@@ -8,7 +8,7 @@ description: The Aspect Of The Dragons 被认为是 Ender Dragon 战利品表中
 本文编辑于0.17版本
 {% endhint %}
 
-> 4/4开龙大概率是龙剑 -Akaere 2箱子龙剑
+> 4/4开龙大概率是龙剑 -Akaere 2箱子龙剑&#x20;
 
 <figure><img src="https://img.pysio.online/doc/skyblock/AOTD.png" alt=""><figcaption><p>不值钱的开龙副产物</p></figcaption></figure>
 
@@ -61,5 +61,19 @@ Gemstones (Jasper)
 Power Scrolls
 
 Enderdragon Pets
+
+#### 献祭
+
+献祭一把 龙族之刃 将获得60个龙精华，以及以下任何其他物品：
+
+| 物品                       | 数量    | 概率     |
+| ------------------------ | ----- | ------ |
+| Superior Dragon Fragment | 10-15 | 80%    |
+| Ritual Residue           | 1     | 10.59% |
+| Dragon Claw              | 1     | 2.35%  |
+| Summoning Eye            | 1     | 4.71%  |
+| Dragon Horn              | 1     | 2.35%  |
+
+
 
 [^1]: 简称AOTD
