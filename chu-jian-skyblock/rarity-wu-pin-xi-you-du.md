@@ -9,7 +9,7 @@
 | COMMON （常见）                                         | 常见稀有度通常分配给非常容易获得的物品。它是分配给物品的默认稀有度，没有比常见更低的等级。                                                                                              |
 | <mark style="color:green;">UNCOMMON （精致）</mark>     | <mark style="color:green;">精致</mark>是指那些在游戏初期不太常见的物品。这是你可以用[重组器3000](../Item/recombobulator-3000-zhong-zu-qi-3000.md)获取到的最低等级。             |
 | <mark style="color:blue;">RARE （罕见）</mark>          | <mark style="color:blue;">罕见</mark>物品主要是早期游戏的实用物品；作为一个早期游戏玩家，你得奋斗目标。这包括很多配件、小人和升级。                                                         |
-| <mark style="color:purple;">EPIC （稀有）</mark>        | <mark style="color:purple;">稀有</mark> 物品开始变得更加昂贵。这些物品旨在脱颖而出并需要一些艰苦的努力才能获得。                                                                 |
+| <mark style="color:purple;">EPIC （史诗）</mark>        | <mark style="color:purple;">史诗</mark> 物品开始变得更加昂贵。这些物品旨在脱颖而出并需要一些艰苦的努力才能获得。                                                                 |
 | <mark style="color:yellow;">LEGENDARY （传说）</mark>   | <mark style="color:yellow;">传说</mark>物品标志着大多数非化妆品的基本稀有度的终点。它们应该是最难获得的，通常是低掉落几率的物品。                                                         |
 | <mark style="color:purple;">MYTHIC （神话）</mark>      | 目前游戏中只有一个非化妆品的<mark style="color:purple;">神话</mark>基础分层物品，这就是Divan的钻头。它们也可以通过升级<mark style="color:yellow;">传说</mark>物品获得，如下所述。             |
 | DIVINE （神圣）                                         | 神圣的稀有性适用于任何从<mark style="color:purple;">神话</mark>升级的物品。蛋糕之魂和Divan的钻头等物品可以用[重组器3000](../Item/recombobulator-3000-zhong-zu-qi-3000.md)升级为神圣。 |
