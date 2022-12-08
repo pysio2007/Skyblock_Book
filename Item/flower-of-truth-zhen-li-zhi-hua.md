@@ -1,5 +1,5 @@
 ---
-description: 曾经不错的新手武器
+description: 曾经被设计为新手的无级别神器
 ---
 
 # Flower Of Truth （真理之花）
