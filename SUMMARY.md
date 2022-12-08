@@ -7,6 +7,18 @@
 
 * [如何进入Skyblock](chu-jian-skyblock/ru-he-jin-ru-skyblock.md)
 
+## 市长
+
+* [Diana （挖宝市长）](shi-chang/diana-wa-bao-shi-chang.md)
+* [Marina （钓鱼市长）](shi-chang/marina-diao-yu-shi-chang.md)
+* [Aatrox （Slayer市长）](shi-chang/aatrox-slayer-shi-chang.md)
+
+## 教程
+
+* [Slayer基础教程](jiao-cheng/slayer-ji-chu-jiao-cheng.md)
+* [农业系统基础教程](jiao-cheng/nong-ye-xi-tong-ji-chu-jiao-cheng.md)
+* [曲奇机制](jiao-cheng/qu-qi-ji-zhi.md)
+
 ## 物品 <a href="#Item" id="Item"></a>
 
 * [Flower Of Truth （真理之花）](Item/flower-of-truth-zhen-li-zhi-hua.md)
