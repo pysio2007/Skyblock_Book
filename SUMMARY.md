@@ -7,10 +7,6 @@
 
 * [如何进入Skyblock](chu-jian-skyblock/ru-he-jin-ru-skyblock.md)
 
-***
-
-* [Page 1](page-1.md)
-
 ## 物品 <a href="#Item" id="Item"></a>
 
 * [Flower Of Truth （真理之花）](Item/flower-of-truth-zhen-li-zhi-hua.md)
