@@ -1,4 +1,4 @@
-# Enchantments （附魔）
+# Enchantments List （附魔总览）
 
 {% hint style="info" %}
 本文编辑于0.17版本
