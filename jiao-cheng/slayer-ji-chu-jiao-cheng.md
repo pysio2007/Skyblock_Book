@@ -1,7 +1,7 @@
 # Slayer基础教程
 
 {% hint style="info" %}
-本文收录于0.17版本
+本文编辑于0.15版本
 {% endhint %}
 
 Hypixel The Skyblock 猎手Slayer任务基础教程
