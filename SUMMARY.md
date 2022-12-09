@@ -26,6 +26,7 @@
 * [Aspect Of The Dragons （龙族之刃）](Item/aspect-of-the-dragons-long-zu-zhi-ren.md)
 * [Recombobulator 3000 (重组器3000)](Item/recombobulator-3000-zhong-zu-qi-3000.md)
 * [Summoning Eye （召唤之眼）](Item/summoning-eye-zhao-huan-zhi-yan.md)
+* [Wither Cloak Sword （盾剑\*）](Item/wither-cloak-sword-dun-jian.md)
 
 ## 附魔
 
