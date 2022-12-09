@@ -31,6 +31,14 @@
 
 * [Enchantments List （附魔总览）](Item/enchantments-fu-mo.md)
 
+## 更新速报 <a href="#Update" id="Update"></a>
+
+* [skyblock0.17.1更新速递](Update/skyblock0.17.1-geng-xin-su-di.md)
+* [skyblock0.17更新速递](Update/skyblock0.17-geng-xin-su-di.md)
+* [skyblock0.16.1更新速递](Update/skyblock0.16.1-geng-xin-su-di.md)
+* [skyblock0.16更新速递](Update/skyblock0.16-geng-xin-su-di.md)
+* [skyblock0.15更新速递](Update/skyblock0.15-geng-xin-su-di.md)
+
 ## 杂文
 
 * [Flower Of Truth 评价](za-wen/flower-of-truth-ping-jia.md)

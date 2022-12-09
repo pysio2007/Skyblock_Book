@@ -8,7 +8,7 @@ Hypixel The Skyblock 市长介绍：Aatrox
 
 市长Aatrox是专门加成Slayer玩法的一个市长，其身份为Slayer任务发布者Maddox的兄弟。
 
-![SkyBlock\_npcs\_slayer\_candidate](<../.gitbook/assets/0 (4)>)
+![SkyBlock\_npcs\_slayer\_candidate](<../.gitbook/assets/0 (4) (1)>)
 
 他可能刷新的Perk有
 

@@ -8,7 +8,7 @@ Hypixel The Skyblock 市长介绍：Marina
 
 _Marina是专门加强钓鱼的一个市长，在当前版本下，钓鱼28级以前，基本上你得指望这个市长的出现来减轻你钓鱼升级的难度。_
 
-![](<../.gitbook/assets/0 (2)>)
+![](<../.gitbook/assets/0 (2) (1)>)
 
 她的三个Perk如下：\
 **Fishing XP Buff**: Gain 50% more [fishing](https://wiki.hypixel.net/Fishing%22%20/o%20%22Fishing) XP public islands.在公共岛屿获得50%额外钓鱼经验\

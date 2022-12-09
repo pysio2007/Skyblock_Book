@@ -32,7 +32,7 @@ Booster Cookie(Untradable)通常用于退还，比较著名的是Hypixel2021年�
 
 1. 可以随时随地使用铁砧，附魔台（满书架），与Hex。
 
-![](<../.gitbook/assets/0 (1)>)
+![](<../.gitbook/assets/0 (1) (1)>)
 
 第二是曲奇的Bits机制如何运作，有以下几条。
 

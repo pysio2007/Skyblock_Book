@@ -1,14 +1,16 @@
 ---
-description: 珍爱生命，远离赌龙。
+description: 召唤末影龙得道具。
 ---
 
 # Summoning Eye （召唤之眼）
 
 {% hint style="info" %}
-Zealuck Perk编辑于0.17版本
+本文编辑于0.17.1版本
 {% endhint %}
 
-&#x20;                                                ![](../.gitbook/assets/image.png)
+> 珍爱生命，远离赌龙。
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>快看 一个召唤之眼！</p></figcaption></figure>
 
 召唤之眼是<mark style="color:purple;">史诗</mark>杂项物品。
 

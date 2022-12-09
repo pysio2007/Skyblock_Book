@@ -8,7 +8,7 @@ Hypixel The Skyblock 猎手Slayer任务基础教程
 
 Slayer玩法是Skyblock的一个核心玩法，Slayer等级的提供了Slayer了不同的辅助道具或装备来辅助玩家提升战斗能力，同时Slayer也是玩家快速提升战斗等级的方式之一。
 
-![](<../.gitbook/assets/0 (3)>)
+![](<../.gitbook/assets/0 (3) (1)>)
 
 Slayer任务的NPC如上图，他的坐标是X:-75 Y:65 Z:-51，位置参考如下图，
 
@@ -24,17 +24,17 @@ Slayer任务的NPC如上图，他的坐标是X:-75 Y:65 Z:-51，位置参考如�
 
 新手没有解锁所有内容，只开放了第一个僵尸任务，解锁条件如下
 
-![](../.gitbook/assets/3)
+![](<../.gitbook/assets/3 (2)>)
 
 击败前一级Boss就可以开始下一级Boss，特例是Revenant Horror Tier V需要Zombie Slayer Lv7解锁，部分Boss开启条件还有战斗等级限制。
 
 接受任务后，在计分板出现了一个计数器，如图
 
-![](../.gitbook/assets/4)
+![](<../.gitbook/assets/4 (2)>)
 
 这时候我们需要去击杀相应Slayer的相应怪物，从相应怪物身上获取战斗经验，达到150点后在一阵紫色粒子和爆炸中刷出了Slayer的Boss。
 
-![](<../.gitbook/assets/5 (1)>)
+![](<../.gitbook/assets/5 (1) (1)>)
 
 注意boss是限时的，所以输出能力一定要充足。
 
