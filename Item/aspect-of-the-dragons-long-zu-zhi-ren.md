@@ -12,7 +12,7 @@ description: The Aspect Of The Dragons 被认为是 Ender Dragon 战利品表中
 
 <figure><img src="https://img.pysio.online/doc/skyblock/AOTD.png" alt=""><figcaption><p>不值钱的开龙副产物</p></figcaption></figure>
 
-龙族之刃[^1]是一把<mark style="color:yellow;">传奇</mark>品质的剑，可以通过在<mark style="color:blue;">末地</mark>的<mark style="color:blue;">龙巢</mark>与<mark style="color:blue;">末影龙</mark>战斗获得。使用它需要战斗等级18级。
+龙族之刃[^1]是一把<mark style="color:yellow;">传奇</mark>品质的剑，可以通过在<mark style="color:purple;">末地</mark>的<mark style="color:purple;">龙巢</mark>与<mark style="color:blue;">末影龙</mark>战斗获得。使用它需要战斗等级18级。
 
 ### 详情
 
