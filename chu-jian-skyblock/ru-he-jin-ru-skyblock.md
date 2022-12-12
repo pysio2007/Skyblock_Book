@@ -1,5 +1,9 @@
 # 如何进入Skyblock
 
+{% hint style="info" %}
+本文编辑于0.17.1版本
+{% endhint %}
+
 ### 1. Game Menu
 
 <figure><img src="https://img.pysio.online/doc/skyblock/Menu.png" alt=""><figcaption><p>Hypixel 游戏菜单</p></figcaption></figure>
