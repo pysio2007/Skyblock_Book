@@ -4,7 +4,7 @@
 本文编辑于0.16.1版本
 {% endhint %}
 
-![sb-161.png](../.gitbook/assets/0)
+![sb-161.png](<../.gitbook/assets/0 (5)>)
 
 Hello,\
 大家好！\

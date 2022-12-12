@@ -43,3 +43,4 @@
 ## 杂文
 
 * [Flower Of Truth 评价](za-wen/flower-of-truth-ping-jia.md)
+* [小人模拟](za-wen/xiao-ren-mo-ni.md)
