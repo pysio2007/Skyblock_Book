@@ -41,6 +41,10 @@
 * [skyblock0.16更新速递](Update/skyblock0.16-geng-xin-su-di.md)
 * [skyblock0.15更新速递](Update/skyblock0.15-geng-xin-su-di.md)
 
+## 官方资源 <a href="#Hypixel" id="Hypixel"></a>
+
+* [Skyblock 原声带](Hypixel/skyblock-yuan-sheng-dai.md)
+
 ## 杂文
 
 * [Flower Of Truth 评价](za-wen/flower-of-truth-ping-jia.md)
