@@ -6,6 +6,7 @@
 ## 初见Skyblock
 
 * [如何进入Skyblock](chu-jian-skyblock/ru-he-jin-ru-skyblock.md)
+* [私人岛屿 -梦开始的地方](chu-jian-skyblock/si-ren-dao-yu-meng-kai-shi-de-di-fang.md)
 * [Rarity  (物品稀有度)](chu-jian-skyblock/rarity-wu-pin-xi-you-du.md)
 
 ## 市长
