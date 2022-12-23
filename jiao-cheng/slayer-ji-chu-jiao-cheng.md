@@ -18,13 +18,13 @@ Slayer任务的NPC如上图，他的坐标是X:-75 Y:65 Z:-51，位置参考如�
 
 他的UI如下图，
 
-![](../.gitbook/assets/2)
+![](<../.gitbook/assets/2 (1)>)
 
 从左到右为僵尸（Revenant Horror复仇恶灵），蜘蛛（Tarantula Broodfather黑寡父），狼（Sven Packmaster狼群领袖），末影人（Voidgloom Seraph虚空炽天使），烈焰人（Inferno Demonlord 地狱魔君）。
 
 新手没有解锁所有内容，只开放了第一个僵尸任务，解锁条件如下
 
-![](<../.gitbook/assets/3 (2)>)
+![](<../.gitbook/assets/3 (2) (1)>)
 
 击败前一级Boss就可以开始下一级Boss，特例是Revenant Horror Tier V需要Zombie Slayer Lv7解锁，部分Boss开启条件还有战斗等级限制。
 

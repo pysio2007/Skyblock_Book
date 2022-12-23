@@ -38,7 +38,7 @@ Like the Catacombs Party Finder, you can now search for or create parties for ea
 
 **► Crimson Essence shop**
 
-![Screenshot 2022-12-08 162111.png](../.gitbook/assets/1)
+![Screenshot 2022-12-08 162111.png](<../.gitbook/assets/1 (8)>)
 
 \
 **Vulcan** is a new NPC that appears right next to the Kuudra Boss fight's entrance once you complete a faction quest. They offer 8 new perks, 4 related to the boss fight, and the remaining 4 provide perks useful on the Crimson Isle.

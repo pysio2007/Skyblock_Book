@@ -66,7 +66,7 @@ This armor is quite easy to obtain, therefore it is soulbound!
 
 这套护甲太容易获得了，所以他是灵魂绑定的。
 
-![Screenshot 2022-11-09 164001.png](<../.gitbook/assets/2 (1)>)
+![Screenshot 2022-11-09 164001.png](<../.gitbook/assets/2 (1) (2)>)
 
 \
 **Arack** is a new early game sword obtained from Arachne
@@ -79,14 +79,14 @@ Both Arachne's Armor and Sword are now in the museum, as long as the Void Sword 
 Arachne的护甲与剑现在都添加到了博物馆中，之前更新的Void Sword与龙短弓也如此。\
 **Spider Tamer**
 
-![Screenshot 2022-11-09 164337.png](../.gitbook/assets/3)
+![Screenshot 2022-11-09 164337.png](<../.gitbook/assets/3 (2)>)
 
 \
 This man loves spiders, but hates Arachne...
 
 他喜欢蜘蛛，但是痛恨Arachne...
 
-![Screenshot 2022-11-09 164747.png](../.gitbook/assets/4)
+![Screenshot 2022-11-09 164747.png](<../.gitbook/assets/4 (1)>)
 
 The Spider Essence shop features 4 new perks, and a Travel Scroll.
 
